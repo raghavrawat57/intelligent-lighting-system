@@ -14,7 +14,7 @@ UI          -> main()
 
 from datetime import date, datetime, time as dtime
 from pathlib import Path
-import plotly
+
 import matplotlib
 
 matplotlib.use("Agg")
